@@ -14,7 +14,7 @@ This repository contains the code of Bootstrap 3.X from Code School course - Bla
 | Level 4 | [Navigating Navigation](https://iavinashvarma.github.io/Bootstrap3/UI/Level4/NavigatingNavigation.html) |
 | Level 5 | [JavaScript Components](https://iavinashvarma.github.io/Bootstrap3/UI/Level5/JavaScriptComponents.html) |
 | Level 5 | [Dropping Down From Orbit](https://iavinashvarma.github.io/Bootstrap3/UI/Level5/DroppingDownFromOrbit.html) |
-| Level 5 | [Dropping Down From Orbit](https://iavinashvarma.github.io/Bootstrap3/UI/Level5/BlastingOffWithBootstrap.html) |
+| Level 5 | [Blasting Off With Bootstrap](https://iavinashvarma.github.io/Bootstrap3/UI/Level5/BlastingOffWithBootstrap.html) |
 
 # Note
   - .sln file is added to open as a web site in Visual Studio 2015 / 2017.
